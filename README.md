@@ -2,10 +2,8 @@
  ##### 2.0
  
  
- > ``DiscordGiftFucker is a python script that allows you to check randomly generated gift codes to see if they are correct or not.
-``
+ > `DiscordGiftFucker is a python script that allows you to check randomly generated gift codes to see if they are correct or not.`
 
-``
 
 >  `The correct codes found will be saved in the / results sub-directory in the find.txt file.`
 
