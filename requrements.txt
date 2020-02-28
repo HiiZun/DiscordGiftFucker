@@ -1,0 +1,8 @@
+random
+requests
+threading
+time
+colorama
+json
+fake-useragent
+os
