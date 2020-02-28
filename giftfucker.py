@@ -1,3 +1,5 @@
+# © DiscordGiftFucker - NeiiZun - 28/02/20
+
 import random
 import requests
 import threading
