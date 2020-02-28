@@ -11,6 +11,8 @@
 
 > `Script using python 3.8`
 
+> `Compatible with windows & linux`
+
 ![](https://i.imgur.com/KNPIKGJ.png)
 
 
